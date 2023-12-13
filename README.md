@@ -1,1 +1,1 @@
-# QA_Dicas_PerformanceTests
+# QA_Dicas_PerformanceTests.
